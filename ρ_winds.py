@@ -3,7 +3,6 @@
 #Importar librerías
 import numpy as np
 from scipy.integrate import solve_ivp
-import matplotlib.pyplot as plt
 import astropy.units as u
 import astropy.constants as const
 import os
