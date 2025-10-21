@@ -5,3 +5,7 @@ Necesita como inputs la masa, radio, temperatura coronal y densidad en la base e
 
 El código necesita las librerías scipy, numpy y astropy. El mismo fue desarrollado para Python 3.10.18.
 El ejemplo, utiliza matplotlib para graficar.
+
+Las ecuaciones utilizadas fueron extraídas del libro Introduction to Stellar Winds:
+
+Lamers H. J. G. L. M., Cassinelli J. P., 1999, Introduction to Stellar Winds, Cambridge Univ. Press, Cambridge
