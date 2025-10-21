@@ -1,4 +1,4 @@
-import ρ_winds as rw
+import rho_winds as rw
 import astropy.units as u
 import astropy.constants as const
 import matplotlib.pyplot as plt
