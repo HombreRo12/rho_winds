@@ -1,4 +1,4 @@
-# ρ-winds
+# ρ_winds
 
 Este código integra las ecuaciones del viento estelar de Parker y/o politrópico.  
 Necesita como inputs la masa, radio, temperatura coronal y densidad en la base estelar. Las mismas se pueden proporcionar en cualquier unidad utilizando astropy, luego el código aprovecha esta misma libería para pasarla a las unidades de trabajo.
